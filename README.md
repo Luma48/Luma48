@@ -1,5 +1,7 @@
 - 👋 Heyo I'm @Luma48
-- 👀 I’m interested in Programming, 3D modelling and engenieering
-- 🌱 I’m currently learning C#, ASM, Maya, Blender, C, Java and so on
-- 💞️ I’m looking to collaborate on hacking projects for games
+- 👀 I’m interested in Programming, 3D modelling and engenieering.
+- I already have proficient knowledge in Blender, C, C++, Java and CAD based mdoelling software.
+- 🌱 I’m currently learning C#, ASM, Maya, and so on.
+- 💞️ I’m looking to collaborate on hacking projects for games.
+- I can speak both Serbian and English fluently and Dutch on a good level.
 - 📫 Reach me via discord Luma48#5200 or gmail danimutavdzic@gmail.com
